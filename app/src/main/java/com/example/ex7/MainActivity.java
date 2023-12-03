@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // Supposons que le taux de change soit 2 pour cet exemple.
                 double dinarAmount = euroAmount * 3.36;
+                //hii
 
                 resultTextView.setText("Résultat en dinars tunisiens : " + dinarAmount);
                 resultTextView.setVisibility(View.VISIBLE);
